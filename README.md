@@ -127,24 +127,30 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** DANNY LUNGU
+**Student ID:** 2021461602
+**Design Theme:** Used vibrant blue for buttons, links , and accents while the green was used sparingly as an accent. Used dark gray for body text, medium gray for secondary text, light gray for alternate section backggrounds, and a soft border-Overall gives a color combination suitable for a tech portfolio. Used a system font stack for fast loading and native look, font sizes are responsive, scaling upon larger screens. Used a clean, spacious layout with consistent padding and margins with sections alternating between white and light blue backgrounds for visual seperation. Cards have subtle shadows and hover effects for depth. Navigation transforms from a hamburger menu on mobile to a horizontal bar on desktop.
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
 - [ ] Flexbox
 - [ ] CSS Grid
 - [ ] Media Queries
-- [ ] Other: _______________
+- [ ] Other: Pure CSS Hamburger menu,smooth scrolling, hover effects, mobile first responsive design and sticky header____________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+The following were challenges I faced:
+1. Making the Hamburger menu work with pure CSS.
+-Solution: Started by changing the HTML structure to place the checkbox before the logo and menu in the <nav> element followed by hiding the checkbox styling the hamburger icon in css.
+2. Building a responsive project grid that adapts to screen size.
+-Solution: Used CSS grid, controlled image sizing by ensuring that images fills the continer while preserving aspect ratio.
 
 ### Credits
 [List any images, fonts, or resources used with attribution]
 
----
+---Images: The image for my profile was mine. The  placeholder images in projects are from picsum.photos- a free, public domain image placeholder service.
+---Icons: None external icons libraries were used.
+---Code inspiration: Hamburger menu tehniques were adapted open source examples; no direct copy.
 
 ## Academic Integrity
 
